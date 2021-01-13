@@ -14,8 +14,7 @@ A ideia principal foi criar um dispositivo para a realização de cálculos num�
 
 # 🔖 Layout
 
-https://github.com/dougxavier2/projeto__Calculadora/issues/1#issue-785364025
-
+![calculadora](https://user-images.githubusercontent.com/76889223/104497323-f18fab00-55b8-11eb-8c50-adfc7597a6fd.png)
 
 
 
